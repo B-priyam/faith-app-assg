@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import {data} from '../Data/Provideddata'
+import {data} from '../../Data/Provideddata'
 import { Playfair_Display } from 'next/font/google'
 
 const playfair = Playfair_Display({ subsets: ['latin'] })
